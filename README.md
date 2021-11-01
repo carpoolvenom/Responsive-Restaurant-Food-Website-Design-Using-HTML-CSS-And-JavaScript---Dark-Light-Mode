@@ -1,1 +1,2 @@
-# Responsive-Restaurant-Food-Website-Design-Using-HTML-CSS-And-JavaScript---Dark-Light-Mode
+Responsive Restaurant/Food Website Design Using HTML CSS And JavaScript - Dark/Light Mode
+
